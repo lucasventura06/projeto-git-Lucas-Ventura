@@ -1,0 +1,1 @@
+alert("Olá! Este é o script.js do projeto.");
